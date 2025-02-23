@@ -1,5 +1,5 @@
 #tugas uas 
-#class Node:
+class Node:
     def __init__(self, pertanyaan, cabang_ya=None, cabang_tidak=None):
         self.pertanyaan = pertanyaan
         self.cabang_ya = cabang_ya
